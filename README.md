@@ -1,7 +1,5 @@
-# codealpha_tasks- BY Sushant Kore
-CodeAlpha Internship — Full Stack Development Task 1: Simple E-commerce Store
-# CodeAlpha Internship — Task 1  
-#🛍️ Simple E-Commerce Store (TechZone)
+
+##🛍️ Simple E-Commerce Store (TechZone)
 
 # 📌 Overview
 This is a full-stack e-commerce application built using:
