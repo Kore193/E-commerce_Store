@@ -1,5 +1,5 @@
 
-##🛍️ Simple E-Commerce Store (TechZone)
+#🛍️ Simple E-Commerce Store (TechZone)
 
 # 📌 Overview
 This is a full-stack e-commerce application built using:
